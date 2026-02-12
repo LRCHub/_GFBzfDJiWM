@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Only Holy Story",
+  "base_artist": "LGYankees×LGMonkees×Noa",
+  "createdAt": "2026-02-12T10:23:35.254344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only Holy Story",
+      "artist": "Steady&Co.",
+      "has_synced": false,
+      "path": "select/01_Only_Holy_Story_Steady&Co..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only Holy Story feat. Noa, LGRookees T-Kay",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/02_Only_Holy_Story_feat._Noa,_LGRookees_T-Kay_LGYankees.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only Holy Story featuring azumi from wyolica",
+      "artist": "Steady&Co.",
+      "has_synced": true,
+      "path": "select/03_Only_Holy_Story_featuring_azumi_from_wyolica_Steady&Co..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only Holy Story",
+      "artist": "LGYankees × LGMonkees × Noa",
+      "has_synced": false,
+      "path": "select/pl_01_Only_Holy_Story_LGYankees_×_LGMonkees_×_Noa.txt"
+    }
+  ]
+}
